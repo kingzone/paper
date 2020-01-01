@@ -13,6 +13,9 @@
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237v1)，2019
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692v1)，2019
 - [cs224n](https://www.youtube.com/watch?v=IxQtK2SjWWM&index=12&t=1544s&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)，Stanford NLP
+- [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing]()，2015，记忆网络之Dynamic Memory Networks，问答
+- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683v2)，2019，T5, Google
+- [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/pdf/1508.01991.pdf)，2015，
 
 
 
@@ -24,12 +27,43 @@
 - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/abs/1703.04247v1)，2017
 - [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792v1)，Google 2016
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/)，Microsoft 2013
+- [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/abs/1810.11921v2)，2018-2019，PKU，自注意力做特征交叉
+- [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1904.06690v1)，2019，alibaba，基于上下文序列推荐
+- [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320v4)，2016，HNSW，ANN最新算法
 
 
+
+### 常用数据集
+
+MovieLens（）
+
+MovieLens-1M（ML-1m）
+
+ML-20m
+
+Amazon(Electro)
+
+Criteo
+
+Avazu
+
+KDD12
+
+Beauty
+
+Steam
 
 
 
 ## CV
+
+- LeNet，1998
+- AlexNet，2012
+- VGGNet，2014
+- InceptionNet（GoogLeNet），2014
+- ResNet，2015
+- [Learning Rich Features for Image Manipulation Detection](https://arxiv.org/abs/1805.04953v1)，2018，Adobe，图片PS识别
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434v2)，DCGAN，2015
 
 
 
